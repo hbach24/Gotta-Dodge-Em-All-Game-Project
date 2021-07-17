@@ -6,6 +6,8 @@
 #endif
 #include "../header/timer.h"
 
+//ADDED ADDITIONAL FEATURE: allows us to display multiple outputs from various SMs onto the LED matrix simultaneously
+
 typedef struct _task {
         signed char state;
         unsigned long int period;
