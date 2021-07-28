@@ -1,16 +1,12 @@
-/*	Author: Hannah Bach, hbach003
- *	Lab Section: 23
- *	Assignment: Final Lab 11
- *	Exercise Description (Proposed Game: Gotta Dodge 'Em All!): 
- *  Dodge all the incoming dots heading straight at you (the player)! If you collide with any incoming dot, you lose 
- *  and the entire LED matrix will illuminate. In this game, we have three difficulty levels: easy, medium, and a hard mode. As you rise up in difficulty 
- *  levels, the incoming dots will move even faster making it harder to dodge. When you press the easy mode, a green LED will light up. When you press 
- *  the medium mode, a yellow LED will light up. And when you press the hard mode, a red LED will light up.
+/*	Author: Hannah Bach
+ *	Game: Gotta Dodge 'Em All!
+ *  	Dodge all the incoming dots heading straight at you (the player)! If you collide with any incoming dot, you lose 
+ *  	and the entire LED matrix will illuminate. In this game, we have three difficulty levels: easy, medium, and a hard mode. As you rise up in difficulty 
+ *  	levels, the incoming dots will move even faster making it harder to dodge. When you press the easy mode, a green LED will light up. When you press 
+ *  	the medium mode, a yellow LED will light up. And when you press the hard mode, a red LED will light up.
  *
- *	Demo Link: https://youtu.be/YO5gwGBAFsc
+ *	Demo Video: https://youtu.be/YO5gwGBAFsc
  *
- *	I acknowledge all content contained herein, excluding template or example
- *	code, is my own original work.
  */
 
 #include <avr/io.h>
