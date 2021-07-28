@@ -8,3 +8,5 @@ Programmed a game in C using an Atmega 1284p microcontroller.
 * Atmega1284p microcontroller
 * 8x8 LED Dot matrix
 * Buttons
+
+**Demo Video:** https://www.youtube.com/watch?v=YO5gwGBAFsc
