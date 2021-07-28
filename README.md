@@ -10,7 +10,7 @@ Programmed a game in C using an Atmega 1284p microcontroller.
 * Atmega1284p microcontroller
 * Solderless Breadboard
 * 8x8 LED Dot matrix
-* Buttons
+* Tactile Push Button Switches
 * ATATMEL-ICE-PCBA
 * ATATMEL-ICE-CABLE
 
