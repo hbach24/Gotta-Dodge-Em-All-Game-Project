@@ -8,7 +8,7 @@ Programmed a game in C using an Atmega 1284p microcontroller.
 
 # Hardware used:
 * Atmega1284p microcontroller
-* Solderless Breadboard
+* Solderless breadboard
 * 8x8 LED Dot matrix
 * Tactile Push Button Switches
 * ATATMEL-ICE-PCBA
