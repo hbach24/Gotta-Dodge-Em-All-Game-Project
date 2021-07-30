@@ -1,6 +1,6 @@
 # Gotta Dodge 'Em All! Game Project
 
-Programmed a game in C using state machines and programming the hardware using an Atmega1284p microcontroller.
+Programmed a game in C using concurrent state machines and programming the hardware using an Atmega1284p microcontroller.
 
 **Demo Video:** https://www.youtube.com/watch?v=YO5gwGBAFsc
 
